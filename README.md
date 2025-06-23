@@ -5,14 +5,15 @@ Neste projeto, iremos criar um controle de videogame utilizando bananas como bot
 O sistema irá simular pressionamento de teclas via comunicação serial ou interface USB, permitindo controlar jogos simples no computador.
 
 ## 🧰 Tabela de Componentes Utilizados
-Quantidade	Nome do Componente	Valor / Modelo	Especificações
-1	Arduino Uno (ou similar)	-	Microcontrolador ATmega328
-6	Bananas	-	Condutor natural de eletricidade
-6	Cabos tipo jumper	Macho x jacaré	Para ligação Arduino → bananas
-1	Resistores pull-down	10kΩ (opcional)	Para melhorar leitura digital
-1	Protoboard (opcional)	-	Para melhor organização das ligações
-1	Cabo USB	-	Comunicação Arduino ↔ PC
-Software	Arduino IDE	-	Para programação do Arduino
+|Quantidade|Nome do Componente  |Valor  |Modelo	/ Especificações         |
+|----------|--------------------|-------|--------------------------------|
+|1         |Arduino Uno         |R$30,00|                                |
+|6         |Bananas             |R$20,00|Condutor natural de eletricidade|
+|6         |Cabos               |R$15,00|Tipo jumper Macho x jacaré      |
+|1         |Resistores pull-down|R$1,00 |10kΩ                            |
+|1         |Cabo USB            |R$2,00 |Comunicação Arduino ↔ PC        |
+
+Software Arduino IDE	-	Para programação do Arduino
 
 ## 📝 Descrição dos Componentes
 * **Arduino Uno:** Responsável por ler os toques nas bananas e enviar os sinais ao computador.
