@@ -29,8 +29,8 @@ Software Arduino IDE	-	Para programação do Arduino
 * **Arduino IDE:** Software usado para carregar o código no Arduino.
 
 ## 📈 Circuito do Projeto
-#### 📷 Esquema de Ligação:
-<img src="">
+#### 📷 Imagem Projeto:
+<img src="./ImagensCircuito/Arduino.jpeg">
 
 📷 Vídeo do Projeto: [Link Vídeo](https://youtube.com/shorts/01CHxVGYxkw?feature=shared)
 
