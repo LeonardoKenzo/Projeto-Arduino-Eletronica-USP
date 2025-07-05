@@ -30,7 +30,7 @@ Software Arduino IDE	-	Para programação do Arduino
 
 ## 📈 Circuito do Projeto
 #### 📷 Imagem Projeto:
-<img height="300px" src="./ImagensCircuitos/Arduino.jpeg">
+<img height="150px" src="./ImagensCircuitos/Arduino.jpeg">
 
 📷 Vídeo do Projeto: [Link Vídeo](https://youtube.com/shorts/01CHxVGYxkw?feature=shared)
 
