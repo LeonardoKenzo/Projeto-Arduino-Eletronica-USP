@@ -30,8 +30,9 @@ Software Arduino IDE	-	Para programação do Arduino
 
 ## 📈 Circuito do Projeto
 #### 📷 Esquema de Ligação:
+<img src="">
 
-#### 📷 Montagem Física:
+📷 Vídeo do Projeto: [Link Vídeo](https://youtube.com/shorts/01CHxVGYxkw?feature=shared)
 
 ## 🧮 Lógica de Funcionamento / Código
 Este projeto utiliza um Arduino Uno para transformar cinco entradas analógicas (A0 a A4) em botões sensíveis ao toque, conectados a objetos condutores como bananas. Cada pino é configurado com resistor pull-up interno, permitindo detectar quando o usuário toca em uma banana conectada ao pino, fechando o circuito com o GND. O Arduino monitora continuamente o estado de cada entrada e envia, via porta serial, mensagens indicando quando um botão é pressionado ("COMANDO ON") ou liberado ("COMANDO OFF"). Essas mensagens são interpretadas por um programa Python no computador, que simula teclas do teclado (como W, A, S, D e espaço), permitindo controlar jogos ou aplicativos com toques físicos nos objetos conectados.
